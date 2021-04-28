@@ -71,7 +71,7 @@ Go into client, and on line 65 and 74, change UserID = 'x', x being your ID.
 After this has been set up, you should be able to run the python file server.py. 
 Only one person needs to run this file, and both users should update their network.py files to reflect the same IP address
 as the server IP address.
-Run the python server, and have both users run the python client.
+Run the python server, and have both users run the python file BubblePoppers.
 
 ***Make sure you have the wifi you are trying it on set as a private***
 ***or home network so you dont have any firewall issues.***
